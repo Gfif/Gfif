@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel Sviridov</h1>
 <h3 align="center">A passionate backend developer and team leader.</h3>
 
-- 🔭 I’m currently working in [practicum.com](https://practicum.com)
+- 🔭 I’m currently working in [tripleten.com](https://tripleten.com)
 
 - 💬 Ask me about **my experience in Django and DDD.**
 
